@@ -5,13 +5,13 @@ struct fib_xri_info_v1_t_ {
     int field1;
     double field2;
     char field5;
-    float field6;
-    long field7;
-    std::string field3;
     bool field4;
     short field8;
     unsigned int field9;
     long long field10;
+    float field6;
+    long field7;
+    std::string field3;
 };
 
 int main() {
